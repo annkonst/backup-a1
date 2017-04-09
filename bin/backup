@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'backup'
+
+Backup.make_backup
